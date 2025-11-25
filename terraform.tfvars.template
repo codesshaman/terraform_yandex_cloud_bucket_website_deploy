@@ -1,0 +1,7 @@
+folder_id = "${FOLDER_ID}"
+cloud_id = "${CLOUD_ID}"
+key_file = "${KEY_FILE}"
+bucket_name = "${BUCKET}"
+zone_name = "${DNS_ZONE_NAME}"
+zone = "${DNS_ZONE}"
+ip_address = "${IP_ADDRES}"

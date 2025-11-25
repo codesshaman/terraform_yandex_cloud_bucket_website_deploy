@@ -1,0 +1,11 @@
+.terraform.tfstate.lock.info
+terraform-provider-yandex_*
+.terraform.lock.hcl.info
+terraform.tfstate.backup
+.terraform.lock.hcl
+authorized_key.json
+terraform.tfstate
+terraform.tfvars
+CHANGELOG.md
+.terraform
+.env
